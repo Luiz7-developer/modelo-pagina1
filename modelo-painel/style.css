@@ -7,7 +7,7 @@
   display: flexbox;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 35px;
-  background-color: darkgrey;
+  background-color: #e7eed0;
   width: auto;
   height: 120px;
 }
@@ -23,7 +23,7 @@
 }
 .lorem {
   text-align: center;
-  background-color: white;
+  background-color: #cad1c3;
   font-size: 25px;
   border-radius: 20px;
   width: 70%;
@@ -31,7 +31,7 @@
   margin: 10px auto 0px auto;
 }
 body {
-  background-color: rgb(212, 211, 211);
+  background-color: #948e99;
 }
 .title2 {
   text-align: left;
