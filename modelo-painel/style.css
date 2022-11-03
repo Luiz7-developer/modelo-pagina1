@@ -1,0 +1,38 @@
+* {
+  margin: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.header {
+  display: flexbox;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  background-color: darkgrey;
+  width: auto;
+  height: 120px;
+}
+.title {
+  text-align: center;
+}
+.buttons {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  color: black;
+}
+.lorem {
+  text-align: center;
+  background-color: white;
+  font-size: 25px;
+  border-radius: 20px;
+  width: 70%;
+  height: 100%;
+  margin: 10px auto 0px auto;
+}
+body {
+  background-color: rgb(212, 211, 211);
+}
+.title2 {
+  text-align: left;
+}
